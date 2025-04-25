@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "[Макет](https://www.figma.com/file/bjyvbKKJN2naO0ucURl2Z0/JavaScript.-Sprint-5?type=design&mode=design)",
   "main": "index.js",
-  "homepage": "https://iamlirra06.github.io/mesto6",
+  "homepage": "https:.github.io/mesto6",
+
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack serve",
