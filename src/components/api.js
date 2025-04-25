@@ -1,9 +1,9 @@
 import baseAvatar from "../images/avatar.jpg";
 
 const config = {
-  baseURL: "https://mesto.nomoreparties.co/v1/wff-cohort-2",
+  baseURL: "https://mesto.nomoreparties.co/v1/apf-cohort-202",
   headers: {
-    authorization: "05b13b30-59e2-48ae-8592-77aaf3426b66",
+    authorization: "e68c9b33-96d0-4ca0-bce8-c71cc3f9909f",
     "Content-Type": "application/json",
   },
 };
